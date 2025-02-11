@@ -53,13 +53,32 @@ We use **Linear Regression and Random Forest Regressor** to train and evaluate t
 ---
 
 ## 📌 How to Run This Project
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/owen3038/housing-price-prediction.git
+# 1️⃣ Clone the GitHub repository
+git clone https://github.com/your-username/housing-price-prediction.git
 
-git add README.md
-git commit -m "Added project README"
+# 2️⃣ Navigate into the project folder
+cd housing-price-prediction
+
+# 3️⃣ (Optional) Create a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate  # Windows
+
+# 4️⃣ Install dependencies
+pip install -r requirements.txt
+
+# 5️⃣ Launch Jupyter Notebook
+jupyter notebook
+
+# 6️⃣ Open the notebook (housing_price_prediction.ipynb) and run all cells
+
+
+📌 How to Save & Push to GitHub
+If you made any changes and want to push them to GitHub:
+git add .
+git commit -m "Updated Housing Price Prediction Model"
 git push origin main
+
 
 
  **✨ Author: MICHAEL ONWUACHI**
