@@ -54,7 +54,7 @@ We use **Linear Regression and Random Forest Regressor** to train and evaluate t
 
 ## 📌 How to Run This Project
 # 1️⃣ Clone the GitHub repository
-git clone https://github.com/your-username/housing-price-prediction.git
+git clone https://github.com/owen3038/housing-price-prediction.git
 
 # 2️⃣ Navigate into the project folder
 cd housing-price-prediction
